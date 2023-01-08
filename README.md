@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarik</h1>
+<h1 align="center">Hi , I'm Tarik</h1>
 <h3 align="center">A self-motivated frontend developer</h3>
 <img align='right' src='https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif' alt='penguin pressing buttons' />
 
