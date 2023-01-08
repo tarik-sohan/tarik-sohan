@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tarik</h1>
 <h3 align="center">A self-motivated frontend developer</h3>
-<img align='right' src='https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif' alt='penguin pressing buttons' />
+<img align='right' width='400' src='https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif' alt='penguin pressing buttons' />
 
 <p align="left"> <a href="https://twitter.com/@tarikjsohan" target="blank"><img src="https://img.shields.io/twitter/follow/@tarikjsohan?logo=twitter&style=for-the-badge" alt="@tarikjsohan" /></a> </p>
 
